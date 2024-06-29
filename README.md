@@ -1,6 +1,5 @@
-<CENTER>
-<h1 align="center">Hi , I'm Marc</h1>![logo](https://github.com/marccl1122/marccl1122/blob/main/GitHubBanner.png.png)
-<CENTER/>
+
+<center><h1 align="center">Hi , I'm Marc</h1>![logo](https://github.com/marccl1122/marccl1122/blob/main/GitHubBanner.png.</center>
 <h1 align="center">Hi , I'm Marc</h1>
 <h3 align="center">A chillax Full-Stack Developer</h3>
 
